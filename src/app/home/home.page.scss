@@ -1,14 +1,13 @@
 
 .divBarra{
   position: absolute;
-  margin-top: 20px;
+  margin-top: -200px;
   width: 200px;
 }
 
 .idBarra{
   position: absolute;
-  margin-left: 100px;
-  width: 400px;
+  
 }
 .rectangle {
   width: 380px; /* Largura do retângulo */
@@ -37,19 +36,18 @@
 }
 
 .rectangle3 {
-  width: 380px; /* Largura do retângulo */
-  height: 290px; /* Altura do retângulo */
-  background-color: #1c1c1e; /* Cor de fundo do retângulo */
+  width: 500x; /* Largura do retângulo */
+  height: 10px; /* Altura do retângulo */
   border-radius: 10px; /* Raio da borda do retângulo */
   padding: 20px; /* Espaçamento interno do retângulo */
   color: #ffffff; /* Cor do texto dentro do retângulo */
   position: absolute;
-  margin-top: 590px;
-  margin-left: 14px;
+  margin-top: 420px;
+  margin-left: 5px;
 
 }
 .config{
-  margin-top: 45px;
+  margin-top: 30px;
 }
 
 .guitarrista{
@@ -87,7 +85,7 @@
 
 }
 .avatarImg{
-  width: 64px;
+  width: 60px;
   margin-left: -310px;
 }
 .icon1{
@@ -99,7 +97,7 @@
 .setaImg{
   position: absolute;
   height: 30px;
-  margin-left: 300px;
+  margin-left: 330px;
 }
 .botaoListas{
   position: absolute;
@@ -110,12 +108,157 @@
 
 }
 .listaImg{
-  width: 44px;
+  width: 42px;
   margin-left: -300px;
 }
 .icon2{
-  margin-left: -20px;
+  margin-left: -10px;
   position: absolute;
   margin-top: 10px;
   color: #d3d2d2;
+}
+.mensagensImg{
+  position: absolute;
+  margin-left: -300px;
+  width: 41px;
+}
+.icon3{
+  color: #d3d2d2;
+  margin-left: -35px;
+}
+.setaImg3{
+  position: absolute;
+  margin-left: 350px;
+  height: 30px;
+}
+.botaoMensagens{
+  position: absolute;
+  width: 400px ;
+  height: 20px;
+  margin-top: -15px;
+  margin-left: -30px;
+}
+.rectangle4{
+  position: absolute;
+  margin-top: 460px;
+}
+.dispositivosImg{
+  position: absolute;
+  width: 44px;
+  margin-left: -295px;
+}
+.botaoDispositivos{
+  position: absolute;
+  width: 380px;
+}
+.icon4{
+  color:#d3d2d2;
+}
+.setaImg4{
+  position: absolute;
+  margin-left: 355px;
+  height: 30px;
+}
+
+.rectangleNew {
+  width: 380px; /* Largura do retângulo */
+  height: 320px; /* Altura do retângulo */
+  background-color: #1c1c1e;/* Cor de fundo do retângulo */
+  border-radius: 10px; /* Raio da borda do retângulo */
+  padding: 20px; /* Espaçamento interno do retângulo */
+  color: #f6dddd; /* Cor do texto dentro do retângulo */
+  position: absolute;
+  margin-top: 570px;
+  margin-left: 14px;
+}
+.botaoConta{
+  position: absolute;
+  margin-top: -25px;
+  margin-left: -20px;
+  width: 400px;
+}
+.contaImg{
+  position: absolute;
+  width: 47px;
+  margin-left: -335px;
+}
+.icon5{
+  color: #d3d2d2;
+  margin-left: -210px;
+}
+.setaImg5{
+  position: absolute;
+  margin-left: 310px;
+  height: 30px;
+}
+.botaoPrivacidade{
+  position: absolute;
+  margin-top: 29px;
+  width: 400px;
+  margin-left: -15px;
+}
+.privaImg{
+  position: absolute;
+  width: 45px;
+  margin-left: -347px;
+}
+.icon6{
+  color: #d3d2d2;
+  margin-left: -173px;
+}
+.setaImg6{
+  position: absolute;
+  margin-left: 300px;
+  height: 30px;
+}
+.botaoConversas{
+  position: absolute;
+  margin-top: 84px;
+  width: 400px;
+  margin-left: -15px;
+}
+.conversasImg{
+  position: absolute;
+  margin-left: -346px;
+  height: 45px;
+}
+.icon7{
+  color: #d3d2d2;
+  margin-left: -180px;
+}
+.setaImg7{
+  position: absolute;
+  margin-left: 300px;
+  height: 27px;
+}
+.setaImg2{
+  position: absolute;
+  margin-left: 350px;
+  height: 27px;
+
+}
+.search-container {
+  position: absolute;
+  width: 100%;
+  max-width: 620px;
+  margin-top: 120px;
+  margin-left: -5px;
+  padding: 10px 20px;
+  border-radius: 30px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+}
+.search-container input[type="text"] {
+  width: 570px;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: #1c1c1e;
+  font-size: 16px;
+  padding: 10px 0;
+}
+.configtit{
+  margin-top: -10;
 }
