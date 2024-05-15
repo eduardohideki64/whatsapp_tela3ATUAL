@@ -1,0 +1,121 @@
+
+.divBarra{
+  position: absolute;
+  margin-top: 20px;
+  width: 200px;
+}
+
+.idBarra{
+  position: absolute;
+  margin-left: 100px;
+  width: 400px;
+}
+.rectangle {
+  width: 380px; /* Largura do retângulo */
+  height: 150px; /* Altura do retângulo */
+  background-color: #1c1c1e;/* Cor de fundo do retângulo */
+  border-radius: 10px; /* Raio da borda do retângulo */
+  padding: 20px; /* Espaçamento interno do retângulo */
+  color: #f6dddd; /* Cor do texto dentro do retângulo */
+  position: absolute;
+  margin-top: 190px;
+  margin-left: 14px;
+
+}
+
+.rectangle2 {
+  width: 380px; /* Largura do retângulo */
+  height: 170px; /* Altura do retângulo */
+  background-color: #1c1c1e; /* Cor de fundo do retângulo */
+  border-radius: 10px; /* Raio da borda do retângulo */
+  padding: 20px; /* Espaçamento interno do retângulo */
+  color: #ffffff; /* Cor do texto dentro do retângulo */
+  position: absolute;
+  margin-top: 370px;
+  margin-left: 14px;
+
+}
+
+.rectangle3 {
+  width: 380px; /* Largura do retângulo */
+  height: 290px; /* Altura do retângulo */
+  background-color: #1c1c1e; /* Cor de fundo do retângulo */
+  border-radius: 10px; /* Raio da borda do retângulo */
+  padding: 20px; /* Espaçamento interno do retângulo */
+  color: #ffffff; /* Cor do texto dentro do retângulo */
+  position: absolute;
+  margin-top: 590px;
+  margin-left: 14px;
+
+}
+.config{
+  margin-top: 45px;
+}
+
+.guitarrista{
+  position: absolute;
+  width: 130px;
+  margin-top: -25px;
+  margin-left: -30px;
+}
+.nomee{
+  margin-left: 80px;
+  font-size: 25px;
+  position: absolute;
+  margin-top: 3px;
+}
+.qrcode{
+  position: absolute;
+  width: 27px;
+  margin-left: 290px;
+  margin-top: 10px
+}
+.bio{
+  margin-left: 80px;
+  font-size: 25px;
+  position: absolute;
+  margin-top: 33px;
+  font-size: 20px;
+  color: #5c5b5f;
+}
+.avatar{
+  position: absolute;
+  width: 370px ;
+  height: 20px;
+  margin-top: 70px;
+  margin-left: -17px;
+
+}
+.avatarImg{
+  width: 64px;
+  margin-left: -310px;
+}
+.icon1{
+  margin-left: -165px;
+  position: absolute;
+  margin-top: 10px;
+  color: #d3d2d2;
+}
+.setaImg{
+  position: absolute;
+  height: 30px;
+  margin-left: 300px;
+}
+.botaoListas{
+  position: absolute;
+  width: 370px ;
+  height: 20px;
+  margin-top: -15px;
+  margin-left: -24px;
+
+}
+.listaImg{
+  width: 44px;
+  margin-left: -300px;
+}
+.icon2{
+  margin-left: -20px;
+  position: absolute;
+  margin-top: 10px;
+  color: #d3d2d2;
+}

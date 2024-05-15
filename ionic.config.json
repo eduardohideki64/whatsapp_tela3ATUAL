@@ -1,0 +1,7 @@
+{
+  "name": "whats_3_tentativa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
